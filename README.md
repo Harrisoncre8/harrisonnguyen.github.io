@@ -1,2 +1,1 @@
-# harrisonnguyen
-resume
+# harrisonnguyen.github.io

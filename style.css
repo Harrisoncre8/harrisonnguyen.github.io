@@ -3,18 +3,6 @@
   margin: 40px auto 60px; 
 }
 
-.container a {
-  width: 800px;
-  margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
-
-	padding: 10px 150px 10px 150px;
-
-	border-radius: 15px;
-	background-color: #212D3B;
-}
-
 .pic {
   float: right;
 }

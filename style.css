@@ -1,14 +1,6 @@
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-color: #212D39;
-  background-size: cover;
-  background-position: center;
-}
-
-.jumbotron h1 {
-  display: inline-block;
-  color: #A4956A;
+.container {
+  width: 800px;
+  margin: 40px auto 60px; 
 }
 
 p {

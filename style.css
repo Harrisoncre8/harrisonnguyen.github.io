@@ -1,11 +1,15 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
-	background: url(https://i.pinimg.com/originals/c9/00/c6/c900c645a419a75b5b82211ba9e78793.png);
+	background: url(http://www.textures4photoshop.com/tex/thumbs/grunge-vintage-leather-texture-with-old-weathered-look-837.jpg);
 }
 
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+}
+
+#container a{
+
 }
 
 #pic {

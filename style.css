@@ -20,3 +20,7 @@ body {
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
+
+.move-me {
+	display: inline;
+}

@@ -9,7 +9,9 @@ body {
 }
 
 #container a{
-
+	position: relative;
+	right: 80px;
+	bottom: 80px;
 }
 
 #pic {

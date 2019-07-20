@@ -21,12 +21,6 @@ body {
 	border-bottom: 1px solid #999;
 }
 
-#container a {
-	float: right;
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
 p {
   color: #959595;
 }
